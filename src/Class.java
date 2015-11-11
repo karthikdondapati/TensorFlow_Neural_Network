@@ -10,7 +10,7 @@ public class Class {
 	public int getNumber()
 	
 	{
-		return 2;
+		return 3;
 	}
 
 }
