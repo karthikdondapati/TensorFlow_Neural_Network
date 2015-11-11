@@ -12,5 +12,11 @@ public class Class {
 	{
 		return 3;
 	}
+	
+	public int getAge()
+	
+	{
+		return 25;
+	}
 
 }
