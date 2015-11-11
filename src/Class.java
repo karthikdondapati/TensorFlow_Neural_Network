@@ -6,5 +6,11 @@ public class Class {
 	{
 		System.out.println("This is a sample class");
 	}
+	
+	public int getNumber()
+	
+	{
+		return 1;
+	}
 
 }
