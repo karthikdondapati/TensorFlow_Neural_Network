@@ -13,6 +13,12 @@ public class Class {
 		return 3;
 	}
 	
+	public int getSalary()
+	
+	{
+		return 100000;
+	}
+	
 	public int getAge()
 	
 	{
